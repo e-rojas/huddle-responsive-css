@@ -1,5 +1,5 @@
 # Frontend Mentor - Huddle landing page with single introductory section
-[Page View](https://e-rojas.github.io/huddle-responsive-css/) challenges allow you to improve your skills in a real-life workflow.
+[Page View](https://e-rojas.github.io/huddle-responsive-css/) Final product view check it out!!!
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
